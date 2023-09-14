@@ -16,7 +16,7 @@ double power(double a, long n)
     return p;
 }
 
-// Возведение в степень logN + N/2
+// Возведение в степень logN + N/2 = O(N)
 double powerB(double a, long n)
 {
     if (n == 0) return 1.0;
