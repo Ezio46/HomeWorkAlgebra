@@ -1,0 +1,3 @@
+C:/Users/igore/CLionProjects/HomeWork_Algebra/cmake-build-debug/CMakeFiles/HomeWork_Algebra.dir
+C:/Users/igore/CLionProjects/HomeWork_Algebra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igore/CLionProjects/HomeWork_Algebra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
